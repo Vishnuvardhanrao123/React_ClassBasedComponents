@@ -25,12 +25,12 @@ function App() {
   // <Stopwatch/> */}
   {/* <Likes/>
   <Colour/> */}
-  {/* <div style={{marginBottom:100}}>
+  <div style={{marginBottom:100}}>
   <Calculator/>
   </div>
   <div>
   <Addmessage/>
-  </div> */}
+  </div>
   <Creation/>
   
     </>
